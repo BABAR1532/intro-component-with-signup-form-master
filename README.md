@@ -1,5 +1,5 @@
 # Frontend Mentor -  intro-component-with-signup-form-master
-[Live site URL here](https://babar1532.github.io/huddle-landing-page/)
+[Live site URL here](https://form-validation-frontendmentor.netlify.app/)
 
 This is a solution to the [intro-component-with-signup-form-master](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -26,13 +26,13 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Design](/screenshot/desktop-design.jpg)
-![Active State](/screenshot/active-states.jpg)
 ![Mobile Design](./screenshot/mobile.png)
+![Active State](/screenshot/active-states.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/BABAR1532/huddle-landing-page)
-- Live Site URL: [Live site URL here](https://babar1532.github.io/huddle-landing-page/)
+- Solution URL: [Solution URL here](https://github.com/BABAR1532/intro-component-with-signup-form-master)
+- Live Site URL: [Live site URL here](https://form-validation-frontendmentor.netlify.app/)
 
 ## My process
 
@@ -46,7 +46,6 @@ Users should be able to:
 ### Useful resources
 
 - [Taliwind CSS](https://tailwindcss.com/docs/installation/using-postcss) - Getting started with tailwind CSS
-
 - [Author](#author)
   - Coded by Ankit Kumar
   - Frontend Mentor profile [@BABAR1532](https://www.frontendmentor.io/profile/BABAR1532)
